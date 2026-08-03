@@ -1,34 +1,64 @@
 # Investment Proposal Generator
-![Portfolio Allocation](allocation_chart.png)
 
-Professional Python toolkit for portfolio construction, strategic asset allocation, stress testing and investment proposal generation.
+![Portfolio Allocation](images/allocation_chart.png)
+
+Professional Python toolkit for Portfolio Construction, Strategic Asset Allocation, Stress Testing and Investment Proposal Generation.
 
 ---
 
-## Project Overview
+## Overview
 
-This project simulates the workflow of an Investment Proposal Specialist within a Private Bank or Asset Management institution.
+This project reproduces the workflow of an Investment Proposal Specialist working in Private Banking or Wealth Management.
 
-It enables an investment professional to:
+The application allows an advisor to:
 
-- Build a strategic asset allocation
-- Rebalance portfolios
-- Perform custom stress testing
-- Assess portfolio risk
+- Build a strategic portfolio allocation
+- Perform portfolio rebalancing
+- Execute custom stress tests
+- Evaluate portfolio risk
 - Generate investment recommendations
-- Produce a professional PDF Investment Proposal
+- Produce a professional PDF investment proposal
 
 ---
 
-## Main Features
+## Features
 
 - Strategic Asset Allocation
 - Portfolio Rebalancing
-- Scenario Analysis
-- Custom Stress Testing
+- Multi-Scenario Stress Testing
 - Risk Classification
 - Recommendation Engine
-- PDF Report Generation
+- Portfolio Visualization
+- Automated PDF Report Generation
+
+---
+
+## Project Structure
+
+```text
+investment-proposal-generator/
+
+├── src/
+│   ├── main.py
+│   ├── client.py
+│   ├── portfolio.py
+│   ├── stress_testing.py
+│   ├── scenario_analysis.py
+│   ├── visualization.py
+│   └── reporting.py
+│
+├── reports/
+│   └── Investment_Proposal.pdf
+│
+├── images/
+│   └── allocation_chart.png
+│
+├── archive/
+│
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
 
 ---
 
@@ -36,21 +66,39 @@ It enables an investment professional to:
 
 - Python
 - ReportLab
-- Portfolio Analytics
-- Financial Modelling
+- Matplotlib
+- Git
+- GitHub
+
+---
+
+## Skills Demonstrated
+
+- Portfolio Construction
+- Strategic Asset Allocation
+- Portfolio Rebalancing
+- Stress Testing
+- Financial Risk Analysis
+- Python Programming
+- Data Visualization
+- Automated Reporting
 
 ---
 
 ## Target Roles
 
-This project has been developed as preparation for investment roles such as:
+This project has been developed for roles including:
 
 - Investment Proposal Specialist
 - Portfolio Analyst
 - Investment Analyst
-- Private Banking Investment Specialist
 - Wealth Management Analyst
+- Private Banking Investment Specialist
 
 ---
 
-*Work in progress — additional portfolio analytics modules and optimization models will be added progressively.*
+## Author
+
+**Joshua Atomo**
+
+Python • Portfolio Analytics • Investment Solutions
