@@ -1,8 +1,17 @@
-# Investment Proposal Generator
+# Portfolio Analytics Engine | Python
+Portfolio Construction • Asset Allocation • Stress Testing • Investment Proposal Generation
 
 ![Portfolio Allocation](images/allocation_chart.png)
 
-Professional Python toolkit for Portfolio Construction, Strategic Asset Allocation, Stress Testing and Investment Proposal Generation.
+A Python-based Portfolio Analytics Engine reproducing the workflow of an Investment Proposal Specialist in Private Banking and Wealth Management.
+
+The application performs strategic asset allocation, portfolio rebalancing, stress testing, portfolio risk assessment and automatically generates professional investment proposals.
+
+---
+
+## Sample Investment Proposal
+
+[View Sample Investment Proposal](reports/Investment_Proposal.pdf)
 
 ---
 
@@ -19,6 +28,31 @@ The application allows an advisor to:
 - Generate investment recommendations
 - Produce a professional PDF investment proposal
 
+---
+
+## Workflow
+
+```text
+Client Information
+        │
+        ▼
+Strategic Asset Allocation
+        │
+        ▼
+Portfolio Rebalancing
+        │
+        ▼
+Stress Testing
+        │
+        ▼
+Risk Classification
+        │
+        ▼
+Investment Recommendation
+        │
+        ▼
+Professional PDF Investment Proposal
+```
 ---
 
 ## Features
