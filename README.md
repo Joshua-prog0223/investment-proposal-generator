@@ -1,4 +1,5 @@
 # Investment Proposal Generator
+![Portfolio Allocation](allocation_chart.png)
 
 Professional Python toolkit for portfolio construction, strategic asset allocation, stress testing and investment proposal generation.
 
